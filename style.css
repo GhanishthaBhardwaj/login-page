@@ -9,7 +9,7 @@ height:100vh;
 display:flex;
 justify-content:center;
 align-items:center;
-background:url("background5.jpeg") center/cover no-repeat;
+background:url("Images/background5.jpeg") center/cover no-repeat;
 }
 .container{
 width:950px;
@@ -163,7 +163,7 @@ width:55%;
 display:flex;
 justify-content:center;
 align-items:center;
-background:url("background.jpeg");
+background:url("Images/background.jpeg");
 border-top-right-radius: 28px;
 border-bottom-right-radius: 28px;
 }
@@ -257,4 +257,5 @@ background:#0a2c2e;
 
 .hide{
 display:none;
+
 }
